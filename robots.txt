@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+Disallow: /api/*
+Sitemap: https://shengdeclinic-byk2dgu2.manus.space/sitemap.xml
